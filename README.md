@@ -6,4 +6,4 @@ The application is able to:
 - It retrieves information about wallets (addresses) transactions, as well as amounts of ETH associated with transactions made to and from the given wallet W and
 show them in a simple human-readable way, from a GUI made in Tkinter.
 
-- I used Visual Studio Code environment to create this Python app, I commented parts of my code in Serbian language (because first part of the interview was in Serbia with Ms Marija Krivosic)
+- I used Visual Studio Code environment to create this Python app, I commented parts of my code in Serbian language (because first part of the interview was discussed in Serbian language with Ms Marija Krivosic)
